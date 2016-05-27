@@ -47,72 +47,77 @@
 	color:#000;
 
 }
+.tocada {
+	background: #9FC;
+	color: #fff;
+	outline: #ff0 solid 1px;
+}
 
 #doS{
-	margin-top:3.5%;
+	margin-top:7%;
 	width:30px;
 	height:40%;
 	float:left;
 	margin-left:5%;
 }
 #reS{
-	margin-top:3.5%;
+	margin-top:7%;
     width:30px;
 	height:40%;
 	float:left;
 	margin-left:12%;
 }
 #faS{
-	margin-top:3.5%;
+	margin-top:7%;
     width:30px;
 	height:40%;
 	float:left;
 	margin-left:26%;
 }
 #solS{
-	margin-top:3.5%;
+	margin-top:7%;
 	width:30px;
 	height:40%;
 	float:left;
 	margin-left:33%;
 }
 #laS{
-	margin-top:3.5%;
+	margin-top:7%;
 	width:30px;
 	height:40%;
 	float:left;
 	margin-left:40%;
 }
 #doSS{
-	margin-top:3.5%;
+	margin-top:7%;
 	width:30px;
 	height:40%;
 	float:left;
 	margin-left:54%;
 }
 #reSS{
-	margin-top:3.5%;
+	margin-top:7%;
 	width:30px;
 	height:40%;
 	float:left;
 	margin-left:61%;
 }
 #faSS{
-	margin-top:3.5%;
+	margin-top:7%;
 	width:30px;
 	height:40%;
 	float:left;
 	margin-left:75%;
 }
 #solSS{
-	margin-top:3.5%;
+	margin-top:7%;
 	width:30px;
 	height:40%;
 	float:left;
 	margin-left:82%;
 }
 #laSS{
-	margin-top:3.5%;
+	margin-top:7%;
 	width:30px;
 	height:40%;
 	float:left;
